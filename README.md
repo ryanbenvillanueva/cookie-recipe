@@ -6,12 +6,11 @@
 
 ## Description
 
-_This is a recipe on how to make delicious cookies. _
-
+_This is a recipe on how to make delicious cookies._
 ## Setup/Installation Requirements
 
 * _Clone the repo._
-* _Open cookie-recipe.html using your favorite browser. _
+* _Open cookie-recipe.html using your favorite browser._
 
 ## Support and contact details
 
